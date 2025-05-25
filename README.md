@@ -36,7 +36,7 @@ Unzip the downloaded file using the password:
 ### 📱 Taking Dump of the Device  
 📺 [Watch on YouTube](https://youtu.be/Oq4XCnFdXPI)
 
-### 🧪 Analyzing Dump of the Device (Open Axiom Evidence)  
+### 🧪 Analyzing Dump of the Device 
 **Important:** Before taking the dump, make sure:  
 - Your device is connected to your laptop  
 - **USB Debugging** and **OEM Unlocking** are enabled in your device settings
