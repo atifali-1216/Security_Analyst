@@ -25,4 +25,5 @@ https://youtu.be/9mr6MoWSE2M
 https://youtu.be/Oq4XCnFdXPI
 
 **For Analyzing Dump of the Device (Open Axiom Evidence) watch this youtube Vedio**:
+Before Taking Dump of device Ensure Your device is connected to your Laptop and USB Debugging and OEM unlocking is Enabled in your Device Setiing.
 https://youtu.be/VNPPP_g1FE0
