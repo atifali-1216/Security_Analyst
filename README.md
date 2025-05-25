@@ -21,3 +21,6 @@ https://youtu.be/74tfhCWxDJE
 https://youtu.be/9mr6MoWSE2M
 
 **For Taking Dump of the Device watch this youtube Vedio**:
+https://youtu.be/Oq4XCnFdXPI
+
+**For Analyzing Dump of the Device (Open Axiom Evidence) watch this youtube Vedio**:
