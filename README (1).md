@@ -18,7 +18,7 @@ Unzip the downloaded file using the password:
 - Run the `Setup` file to begin the installation process.  
 - Follow the on-screen instructions to complete the installation.
 
-### 4. Cracking (For Educational Purposes Only)  
+### 4. Activation of the Software 
 - After installation, navigate to the installation directory.  
 - Copy the contents of the `Crack` folder into the installation directory.  
 - Replace existing files if prompted.
