@@ -14,4 +14,10 @@ Open the extracted folder and run the Setup file to begin the installation proce
 After installation, navigate to the installation directory. Then, copy the contents of Crack folder into the installation directory, replacing existing files if prompted.
 
 
-For Complete Intallation and Guide watch this youtube Vedio:
+**For Complete Intallation and Guide watch this youtube Vedio**:
+https://youtu.be/74tfhCWxDJE
+
+**For Activation Guide watch this youtube Vedio**:
+https://youtu.be/9mr6MoWSE2M
+
+**For Taking Dump of the Device watch this youtube Vedio**:
