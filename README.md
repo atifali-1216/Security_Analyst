@@ -1,7 +1,8 @@
 # Security_Analyst
 
 **Installation Instructions**
-Download the file
+
+**Download the file**:
 Visit https://drive.google.com/drive/folders/1QNZ5LioZzeePrkohtCtQJu5zGemhQ_k5 and download the installation package.
 
 **Extract the contents**:
