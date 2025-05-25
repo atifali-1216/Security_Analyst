@@ -14,3 +14,4 @@ Open the extracted folder and run the Setup file to begin the installation proce
 After installation, navigate to the installation directory. Then, copy the contents of Crack folder into the installation directory, replacing existing files if prompted.
 
 
+For Complete Intallation and Guide watch this youtube Vedio:
